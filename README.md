@@ -8,11 +8,13 @@ Download the project
 git clone https://github.com/jbabin91/blog-prisma2
 ```
 
-1. Run `npm run build` in the root directory.
+1. Rename `.env.example` to `.env`
 
-2. Run `npm start` in the root directory.
+2. Run `npm run build` in the root directory.
 
-3. If you are running this for the first time after a build, you need to migrate the database. Run `npm run migrate`. Then run `npm stop` followed by `npm start` to reset the server.
+3. Run `npm start` in the root directory.
+
+4. If you are running this for the first time after a build, you need to migrate the database. Run `npm run migrate`. Then run `npm stop` followed by `npm start` to reset the server.
 
 ## GraphQL API Info
 
