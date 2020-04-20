@@ -1,0 +1,8 @@
+{
+  "name": "blog-prisma2",
+  "version": "0.0.1",
+  "description": "Front-end of a blog application",
+  "main": "index.js",
+  "author": "Jace Babin",
+  "license": "MIT"
+}
